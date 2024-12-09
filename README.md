@@ -1,2 +1,3 @@
-### Shameless Plug App demo explaining how to create ad space on your own website by using the embed code.
+# Shameless Plug Embed code demo
+
 Please take a look at the source code.
