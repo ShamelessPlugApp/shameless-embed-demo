@@ -1,0 +1,11 @@
+.shameless_embed-inner {
+    display: flex;
+    flex-direction: column;
+    items-align: center;
+    justify-content: center;
+    max-width: 400px;
+}
+.shameless_embed-intro {
+    margin-left: auto;
+    margin-right: auto;
+}
